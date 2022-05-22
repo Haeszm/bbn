@@ -42,10 +42,10 @@ def start_pannel():
             InlineKeyboardButton(text="قـنـاة السورس╎💡", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("🚨╎الاوامـــر╎💁‍♂️", url="https://t.me/O_U_C/5291"),
+            InlineKeyboardButton("🚨╎الاوامـــر╎💁‍♂️", url="https://t.me/O_U_C/5963"),
         ],
         [
-            InlineKeyboardButton("⁨⁨⌯ 𝙎َ𝙊ٰ𝙐ِِ𝖱ٰ𝘾ٌ𝙀 ٰ𝙆ٍ𝙔𝙊ٰ𝙂ٰٓٓ𝘼 ˹🕷️🔥˼⁩", url="https://t.me/O_U_C"),
+            InlineKeyboardButton("⁨⁨⌯ ٰ𝙆ٍ 𝙔 𝙊ٰ 𝙂ٰٓٓ 𝘼 ˹🕷️🔥˼⁩", url="https://t.me/O_U_C"),
         ],
     ]
     return (
