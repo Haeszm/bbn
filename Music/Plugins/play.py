@@ -132,7 +132,7 @@ def time_to_seconds(time):
 
 
 
-@Client.on_message(command(["/play", "كيوجا" ,"شغل" ,"تشغيل", f"/play@{BOT_USERNAME}", "تشغيل"]))
+@Client.on_message(command(["play", "دايموند" ,"شغل" ,"تشغيل", f"/play@{BOT_USERNAME}", "تشغيل"]))
 async def play(_, message: Message):
     chat_id = message.chat.id
     if message.sender_chat:
@@ -402,7 +402,7 @@ async def play(_, message: Message):
 
 ** 👇 • مثال كالأتي • 👇**
 
-`تشغيل او شغل او كيوجا + أسم المقطع الصوتي 🎧`
+`تشغيل او شغل او دايموند + أسم المقطع الصوتي 🎧`
 """,
             )
             return

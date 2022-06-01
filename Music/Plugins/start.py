@@ -42,10 +42,10 @@ def start_pannel():
             InlineKeyboardButton(text="قـنـاة السورس╎💡", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("🚨╎الاوامـــر╎💁‍♂️", url="https://t.me/O_U_C/5963"),
+            InlineKeyboardButton("🚨╎الاوامـــر╎💁‍♂️", url="https://telegra.ph/MUSIC-%F0%93%86%98-DIMOND-%D8%A7%D9%88%D8%A7%D9%85%D8%B1-%D8%B3%D9%88%D8%B1%D8%B3-%D8%A7%D9%84%D8%A7%D8%BA%D8%A7%D9%86%D9%8A-06-01"),
         ],
         [
-            InlineKeyboardButton("⁨⁨⌯ ٰ𝙆ٍ 𝙔 𝙊ٰ 𝙂ٰٓٓ 𝘼 ˹🕷️🔥˼⁩", url="https://t.me/O_U_C"),
+            InlineKeyboardButton("⁨⁨#ժᎥꪔ᥆ꪀժ", url="https://t.me/S_U_J"),
         ],
     ]
     return (
@@ -129,7 +129,7 @@ async def start(_, message: Message):
     return
 
 
-@Client.on_message(filters.private & filters.incoming & filters.command("music"))
+@Client.on_message(filters.private & filters.incoming & filters.command("start"))
 async def play(_, message: Message):
     if len(message.command) == 1:
         user_id = message.from_user.id
