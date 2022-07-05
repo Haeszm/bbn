@@ -1017,7 +1017,7 @@ async def rabic(_, query: CallbackQuery):
             InlineKeyboardButton("📡╎قناه السورس", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("🎟╎الاوامر", url="https://telegra.ph/MUSIC-%F0%93%86%98-DIMOND-%D8%A7%D9%88%D8%A7%D9%85%D8%B1-%D8%B3%D9%88%D8%B1%D8%B3-%D8%A7%D9%84%D8%A7%D8%BA%D8%A7%D9%86%D9%8A-06-01"),
+            InlineKeyboardButton("🎟╎الاوامر", url="https://t.me/U_Y_H/10371"),
         ],
         [
            InlineKeyboardButton("🏴‍☠️╎المبرمج", callback_data="vhkcbt"),
@@ -1037,8 +1037,11 @@ async def vhkcbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⁨⁨⌯ ٰ ٰ𝓭𝓲𝓶𝓸𝓷𝓭࿐ ˹🕷️🔥˼⁩", url=f"https://t.me/J_G_A"
+                        "⁨⁨⁨⁨: ٰٰٰ𝐃ِٰ𝐀ٰ𝐃ِ 𝐆ٓ8ٰ𝐀ٓ𝐙ٰ𝐀ٌِ𝐋 ⛓️ 🍇↺⁩", url=f"https://t.me/G8AZAAL"
                     ),
+                ],
+                [                  
+                InlineKeyboardButton("ِ𝐌ٍٓ𝐘 َ𝐏ِِ𝖱𝐎َٰ𝐏ٌِ𝐄ِ𝖱𝐓ٍِ𝐘 🦌↺", url=f"https://t.me/G_8_A_Z_A_L"),
                 ],
                 [                  
                     InlineKeyboardButton(
@@ -1058,7 +1061,7 @@ async def sthjbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⁨⁨⌯ ٰ ٰ𝓭𝓲𝓶𝓸𝓷𝓭࿐ ˹🕷️🔥˼⁩", url=f"https://t.me/J_G_A"
+                        "⁨⁨⁨⁨: ٰٰٰ𝐃ِٰ𝐀ٰ𝐃ِ 𝐆ٓ8ٰ𝐀ٓ𝐙ٰ𝐀ٌِ𝐋 ⛓️ 🍇↺⁩", url=f"https://t.me/G8AZAAL"
                     ),
                 ],
                 [                  
